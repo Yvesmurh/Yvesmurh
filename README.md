@@ -9,7 +9,7 @@ A young Congolese from Bukavu, DRC, on a journey towards the African dream.
 i'm passionate about Data, i'm interested in using data science and software engineering to address meaningful challenges in society, 
 Particularly motivated by technology's potential to improve access to information and support better decision-making in African communities.
 
-Beyond technology, I enjoy listening to music, watching football and TV show. 
+Outside tech, you can usually find me listening to music (pretty much any kind), watching football or TV shows, or playing pool table. 
 I am also passionate about reading and listening to audiobooks on psychology and strategy, as I believe understanding human behaviour is essential to understanding myself.
 
 A quote I live by
