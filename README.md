@@ -6,22 +6,21 @@ Computer Science Student
 
 A young Congolese from Bukavu, DRC, on a journey towards the African dream.
 
-i'm passionate about Data
-                     ----- , i'm interested in using data science and software engineering to address meaningful challenges in society, particularly motivated by technology's potential to improve access to information and support better decision-making in African communities.
+i'm passionate about Data, i'm interested in using data science and software engineering to address meaningful challenges in society, 
+Particularly motivated by technology's potential to improve access to information and support better decision-making in African communities.
 
-Beyond technology, I enjoy listening to music, watching football and TV show. I am also passionate about reading and listening to audiobooks on psychology and strategy, as I believe understanding human behaviour is essential to understanding myself.
+Beyond technology, I enjoy listening to music, watching football and TV show. 
+I am also passionate about reading and listening to audiobooks on psychology and strategy, as I believe understanding human behaviour is essential to understanding myself.
 
 A quote I live by
-
 "The major key to your better future is you."
-
 — Jim Rohn
 
 * 🌍  I'm based in Kampala , Uganda
 * ✉️  You can contact me at [yvesmurh2023@gmail.com](mailto:yvesmurh2023@gmail.com)
-* 🧠  I'm currently learning Linear Algebra for Machine Learning and Data Science on Coursera by Deeplearning.AI
-* 👥  I'm looking to collaborate on interresting project , related to Data Engineering and Software Engineering .
-* 💬  Ask me about i'm a Jehovah's Witness , but don't tell anybody.
+* 🧠  I'm currently learning Data Science
+* 👥  I'm looking to collaborate on interresting project , particularly anything related to Data and Software Engineering .
+* 💬  Fun fact about me, i'm a Jehovah's Witness , but don't tell anybody.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
