@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yves Murhabazi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Yves Murhabazi
 =======================================================================================================================================
 
 Computer Science Student
@@ -6,7 +6,8 @@ Computer Science Student
 
 A young Congolese from Bukavu, DRC, on a journey towards the African dream.
 
-i'm passionate about DATA , i'm interested in using data science and software engineering to address meaningful challenges in society, particularly motivated by technology's potential to improve access to information and support better decision-making in African communities.
+i'm passionate about Data
+                     ----- , i'm interested in using data science and software engineering to address meaningful challenges in society, particularly motivated by technology's potential to improve access to information and support better decision-making in African communities.
 
 Beyond technology, I enjoy listening to music, watching football and TV show. I am also passionate about reading and listening to audiobooks on psychology and strategy, as I believe understanding human behaviour is essential to understanding myself.
 
